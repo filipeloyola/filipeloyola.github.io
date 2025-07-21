@@ -1,6 +1,6 @@
 <!-- <img src="Edit.jpg" width=200 align=right>--> 
 
-Technologist
+# Technologist
 ===================================
 
 CTI Renato Archer, Campinas, SP 
@@ -16,7 +16,7 @@ Publications
 
 [publons](https://www.webofscience.com/wos/author/record/AEH-9706-2022)
 
-<!-- For public engagement and random things follow me on [Twitter](https://twitter.com/rilogando)--> 
+<!-- For public engagement and random things follow me on [Twitter]()--> 
 
 CV
 --
