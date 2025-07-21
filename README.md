@@ -1,7 +1,7 @@
 <!-- <img src="Edit.jpg" width=200 align=right>--> 
 
 # Technologist
-===================================
+------------
 
 CTI Renato Archer, Campinas, SP 
 
