@@ -3,7 +3,7 @@
 Technologist
 ===================================
 
-Currently at CTI Renato Archer, Campinas, SP 
+CTI Renato Archer, Campinas, SP 
 
 [Contact me](mailto:flopes@cti.gov.br)
 
