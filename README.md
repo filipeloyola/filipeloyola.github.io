@@ -7,7 +7,9 @@ CTI Renato Archer, Campinas, SP
 
 [Contact me](mailto:flopes@cti.gov.br)
 
-[![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/filipe-loyola-lopes-04317989/)
+<a href="https://www.linkedin.com/in/filipe-loyola-lopes-04317989/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" />
+</a>
 
 Publications
 ------------
