@@ -14,7 +14,7 @@ Publications
 
 [Google Scholar](https://scholar.google.com.br/citations?user=evZyM50AAAAJ&hl=pt-BR)
 
-[publons](https://www.webofscience.com/wos/author/record/AEH-9706-2022)
+[Publons](https://www.webofscience.com/wos/author/record/AEH-9706-2022)
 
 <!-- For public engagement and random things follow me on [Twitter]()--> 
 
